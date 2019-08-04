@@ -1,1 +1,1 @@
-module.exports = { return process.versions.node }
+module.exports = { process.versions.node }
