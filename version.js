@@ -1,3 +1,2 @@
-module.exports = function() {
-  console.log(process.versions.node)
-};
+module.exports = process.versions.node;
+
