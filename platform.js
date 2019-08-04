@@ -1,1 +1,1 @@
-module.exports = { console.log(process.platform) }
+module.exports = process.platform;
