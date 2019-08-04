@@ -1,3 +1,3 @@
 module.exports = {
-  return global.process.versions.node
+  return process.versions.node
 };
